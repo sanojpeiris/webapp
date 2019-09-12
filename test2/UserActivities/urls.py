@@ -9,6 +9,8 @@ urlpatterns = [
     path("logout", views.logout, name="logout"),
     path("home", views.moveToHome, name="home"),
     path("moveToLogin", views.moveToLogin, name="moveToLogin"),
+    path("moveToHome", views.moveToHome, name="moveToHome"),
     path("moveToRegister", views.moveToRegister, name="moveToRegister"),
     path("moveToUpdateUser", views.moveToUpdateUser, name="moveToUpdateUser"),
+    path("moveToTodo", views.moveToTodo, name="moveToTodo"),
 ]

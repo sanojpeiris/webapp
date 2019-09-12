@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce0124c3-f26d-4196-b185-4d86a26a7de7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/img-mtg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/img-mtg.png" afterDir="false" />
+    <list default="true" id="ce0124c3-f26d-4196-b185-4d86a26a7de7" name="Default Changelist" comment="user done 2">
+      <change afterPath="$PROJECT_DIR$/templates/todo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/img-01.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/img-01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/img-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserActivities/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserActivities/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserActivities/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserActivities/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserActivities/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/UserActivities/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/list.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/updateUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/updateUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/result.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,8 +144,19 @@
       <workItem from="1568111636539" duration="451000" />
       <workItem from="1568160465933" duration="8915000" />
       <workItem from="1568177713771" duration="2595000" />
-      <workItem from="1568181248774" duration="3464000" />
+      <workItem from="1568181248774" duration="5145000" />
+      <workItem from="1568265442304" duration="55000" />
+      <workItem from="1568267415399" duration="319000" />
+      <workItem from="1568269896060" duration="710000" />
     </task>
+    <task id="LOCAL-00001" summary="user done 2">
+      <created>1568191085068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568191085069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +167,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -168,6 +177,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="user done 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="user done 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

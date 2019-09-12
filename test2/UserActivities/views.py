@@ -101,7 +101,7 @@ def updateUser(request):
         password.save()
 
         messages.info(request, "password changed")
-        return redirect("register")
+        return redirect("updateUser")
     else:
         return render(request, "login.html")
 
@@ -125,3 +125,7 @@ def moveToRegister(request):
 
 def moveToUpdateUser(request):
     return render(request, "updateUser.html")
+
+
+def moveToTodo(request):
+    return render(request, "todo.html")
